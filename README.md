@@ -10,10 +10,12 @@ Project 1 (Math 331): Investigated IMDb movie ratings, focusing on data wranglin
 
 Project 2 (Math 331): Analyzed coffee ratings, applying similar machine learning model evaluation and data preprocessing steps as in the previous project.
 
+Project 2 (CSC 435 – Machine Learning): Developed a YouTube comment toxicity detection pipeline using transformer models. Combined and cleaned multiple Kaggle datasets, benchmarked several models, and selected s-nlp/roberta_toxicity_classifier for final classification. Produced visualizations, statistical analyses, and a Streamlit application for real-time comment moderation.
+
 Each dataset is sourced directly from Kaggle, offering real-world data for hands-on practice. This repository will keep evolving with new data science challenges, including both class projects and independent research.
 
 Files in this repository:
 
-Data Files: Coffee_Qlty.csv, games.csv, imdb_movies.csv, simplified_coffee.csv
+Data Files: Coffee_Qlty.csv, games.csv, imdb_movies.csv, simplified_coffee.csv, CompleteYoutubeCommentsData.csv, Predicted_YouTube_Comments.csv
 
-Jupyter Notebooks: Project1MATH331.ipynb, Project2Math331.ipynb, Project_1_Data215.ipynb, Project_2_Data215.ipynb
+Jupyter Notebooks: Project1MATH331.ipynb, Project2Math331.ipynb, Project_1_Data215.ipynb, Project_2_Data215.ipynb, YouTube_Comment_Moderation.ipynb
